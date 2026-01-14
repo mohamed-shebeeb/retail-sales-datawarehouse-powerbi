@@ -1,0 +1,31 @@
+﻿EmployeeKey,EmployeeName,Role,SupervisorKey,SupervisorName
+1,Ahmed Ali,Supervisor,,
+2,John Mathew,Supervisor,,
+3,Sara Khan,Supervisor,,
+4,Omar Hassan,Supervisor,,
+5,Aisha Noor,Supervisor,,
+6,Mohammed Rahman,Salesman,1,Ahmed Ali
+7,Ali Hasan,Salesman,1,Ahmed Ali
+8,Salman Yusuf,Salesman,1,Ahmed Ali
+9,Naveen Kumar,Salesman,1,Ahmed Ali
+10,Faheem Khan,Salesman,1,Ahmed Ali
+11,Arun Mathew,Salesman,2,John Mathew
+12,Rehan Ali,Salesman,2,John Mathew
+13,Joseph Thomas,Salesman,2,John Mathew
+14,Rizwan Shaikh,Salesman,2,John Mathew
+15,Nikhil Menon,Salesman,2,John Mathew
+16,Fatima Noor,Salesman,3,Sara Khan
+17,Amina Khan,Salesman,3,Sara Khan
+18,Sara Ibrahim,Salesman,3,Sara Khan
+19,Hiba Salman,Salesman,3,Sara Khan
+20,Maryam Rahman,Salesman,3,Sara Khan
+21,Omar Ali,Salesman,4,Omar Hassan
+22,Iqbal Khan,Salesman,4,Omar Hassan
+23,Hassan Noor,Salesman,4,Omar Hassan
+24,Ramesh Kumar,Salesman,4,Omar Hassan
+25,Sameer Yusuf,Salesman,4,Omar Hassan
+26,Aisha Mathew,Salesman,5,Aisha Noor
+27,Mariya Ali,Salesman,5,Aisha Noor
+28,Noor Hasan,Salesman,5,Aisha Noor
+29,Kavya Menon,Salesman,5,Aisha Noor
+30,Zoya Khan,Salesman,5,Aisha Noor
